@@ -1,0 +1,8 @@
+Aynoã Andrade Farias da Silva
+Noturno
+
+O projeto desenvolve um sistema de controle de almoxarifado, 
+permitindo cadastrar produtos, controlar entradas e saídas, 
+consultar o estoque e calcular seu valor total.
+
+Como rodar o teste: python -m testes.teste_almoxarifado.
