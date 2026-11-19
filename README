@@ -6,3 +6,4 @@ permitindo cadastrar produtos, controlar entradas e saídas,
 consultar o estoque e calcular seu valor total.
 
 Como rodar o teste: python -m testes.teste_almoxarifado.
+
